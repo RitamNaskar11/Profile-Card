@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(192, 221, 247);
+    margin: 0px;
+    padding: 0px;
+}
+
+.First{
+	width: 370px;
+    height: 483px;
+    background: white;
+    position: absolute;
+    top: 11%;
+    left: 35%;
+    border: 3px solid;
+    border-radius: 5px;
+    border-color: white;
+    box-shadow: 1px 1px 2rem;
+}
+.second{
+    height: 150px;
+	background: rgb(165, 16, 165)
+}
+.third{
+    height: 259px;
+    background: white;
+    padding: 43px;
+    padding-top: 28px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h3{
+height: 0px;
+    padding: 10px;
+}
+	h4{
+		color: rgb(241, 113, 113);
+	}
+
+.img{
+	background: white;
+    width: 124px;
+    height: 130px;
+    border-radius: 78%;
+    padding: 3px;
+    position: absolute;
+    top: 15%;
+    left: 32%
+
+}
+.img img{
+    
+	width: 124px;
+    height: 130px;
+    border-radius: 68%
+}
+button{
+	color: white;
+    background-color: purple;
+    padding: 4px;
+    width: 102px;
+    height: 33px;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 20px;
+}
+.btn{
+	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	justify-items: center;
+}
